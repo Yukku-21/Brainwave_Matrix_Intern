@@ -1,5 +1,7 @@
 # 🧠 **Brainwave Matrix Internship Project** 🚀
 
+### Change Branch to ***"master"*** and View Task1 of my Instrnship Project
+
 ## Overview
 Welcome to the **Brainwave Matrix Internship Project** repository! This project is a culmination of my internship experience at **Brainwave Matrix**, where I had the opportunity to dive into the world of software development with a focus on **Java**, **Collection Framework**, **OOPs Concepts**, and more.
 
@@ -11,8 +13,3 @@ Throughout the internship, I developed skills in various programming methodologi
 - **Multi-threading & Concurrency**
 - **Exception Handling**
 - **File I/O Operations**
-
-### Change Branch to ***"master"*** and View Task1 of my Instrnship Project
-
-```bash
-git checkout master
